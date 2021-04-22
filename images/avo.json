@@ -1,0 +1,27 @@
+{"frames": {
+
+"CachedBmp_2":
+{
+	"frame": {"x":766,"y":0,"w":439,"h":916},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":439,"h":916},
+	"sourceSize": {"w":439,"h":916}
+},
+"CachedBmp_3":
+{
+	"frame": {"x":0,"y":0,"w":764,"h":881},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":764,"h":881},
+	"sourceSize": {"w":764,"h":881}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.3.38773",
+	"image": "avo.amit_atlas_1.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":1024},
+	"scale": "1"
+}
+}
